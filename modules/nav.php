@@ -18,7 +18,7 @@
 							<a href="index.php"><i class="glyphicon glyphicon-calendar"></i> Take Attendance</a>
 					</li>
 					<li>
-							<a href="modules/addsubject.php"><i class="glyphicon glyphicon-book"></i> Add Subject</a>
+							<a href="index.php"><i class="glyphicon glyphicon-book"></i> Add Subject</a>
 					</li>
 					<li>
 							<a href="signup.php"><i class="glyphicon glyphicon-user"></i> Add Student</a>
